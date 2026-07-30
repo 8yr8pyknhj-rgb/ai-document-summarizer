@@ -1,1 +1,1 @@
-# ai-document-summarizer
+# docmind-ai
